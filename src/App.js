@@ -16,6 +16,8 @@ function App() {
         >
         
         </a>
+        {/* https://blog.logrocket.com/how-to-use-svgs-in-react/ */}
+        
       </header>
     </div>
   );
