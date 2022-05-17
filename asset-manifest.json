@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Figma-Front-End-Challenge/static/css/main.2365e2c6.css",
-    "main.js": "/Figma-Front-End-Challenge/static/js/main.4eb6d05e.js",
+    "main.css": "/Figma-Front-End-Challenge/static/css/main.86a49229.css",
+    "main.js": "/Figma-Front-End-Challenge/static/js/main.ddb1f242.js",
     "static/js/787.a220e49e.chunk.js": "/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js",
     "static/media/GrantRoyseth.svg": "/Figma-Front-End-Challenge/static/media/GrantRoyseth.164237cb3af47377c8407c93c24528f4.svg",
     "static/media/test.jpg": "/Figma-Front-End-Challenge/static/media/test.1f01ef1d8127111fab74.jpg",
     "index.html": "/Figma-Front-End-Challenge/index.html",
-    "main.2365e2c6.css.map": "/Figma-Front-End-Challenge/static/css/main.2365e2c6.css.map",
-    "main.4eb6d05e.js.map": "/Figma-Front-End-Challenge/static/js/main.4eb6d05e.js.map",
+    "main.86a49229.css.map": "/Figma-Front-End-Challenge/static/css/main.86a49229.css.map",
+    "main.ddb1f242.js.map": "/Figma-Front-End-Challenge/static/js/main.ddb1f242.js.map",
     "787.a220e49e.chunk.js.map": "/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2365e2c6.css",
-    "static/js/main.4eb6d05e.js"
+    "static/css/main.86a49229.css",
+    "static/js/main.ddb1f242.js"
   ]
 }
