@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Figma-Front-End-Challenge/static/css/main.2365e2c6.css",
-    "main.js": "/Figma-Front-End-Challenge/static/js/main.2842bcd6.js",
+    "main.js": "/Figma-Front-End-Challenge/static/js/main.4eb6d05e.js",
     "static/js/787.a220e49e.chunk.js": "/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js",
-    "static/media/GrantRoyseth.svg": "/Figma-Front-End-Challenge/static/media/GrantRoyseth.084ad3b45ac6409b0556e7ce0c9fd0d0.svg",
+    "static/media/GrantRoyseth.svg": "/Figma-Front-End-Challenge/static/media/GrantRoyseth.164237cb3af47377c8407c93c24528f4.svg",
     "static/media/test.jpg": "/Figma-Front-End-Challenge/static/media/test.1f01ef1d8127111fab74.jpg",
     "index.html": "/Figma-Front-End-Challenge/index.html",
     "main.2365e2c6.css.map": "/Figma-Front-End-Challenge/static/css/main.2365e2c6.css.map",
-    "main.2842bcd6.js.map": "/Figma-Front-End-Challenge/static/js/main.2842bcd6.js.map",
+    "main.4eb6d05e.js.map": "/Figma-Front-End-Challenge/static/js/main.4eb6d05e.js.map",
     "787.a220e49e.chunk.js.map": "/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2365e2c6.css",
-    "static/js/main.2842bcd6.js"
+    "static/js/main.4eb6d05e.js"
   ]
 }
