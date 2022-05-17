@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/groyseth/Figma-Front-End-Challenge/static/css/main.073c9b0a.css",
+    "main.js": "/groyseth/Figma-Front-End-Challenge/static/js/main.c5917037.js",
+    "static/js/787.a220e49e.chunk.js": "/groyseth/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js",
+    "static/media/GrantRoyseth.svg": "/groyseth/Figma-Front-End-Challenge/static/media/GrantRoyseth.7cb118200d92f6b3c449e86d8f4542e0.svg",
+    "index.html": "/groyseth/Figma-Front-End-Challenge/index.html",
+    "main.073c9b0a.css.map": "/groyseth/Figma-Front-End-Challenge/static/css/main.073c9b0a.css.map",
+    "main.c5917037.js.map": "/groyseth/Figma-Front-End-Challenge/static/js/main.c5917037.js.map",
+    "787.a220e49e.chunk.js.map": "/groyseth/Figma-Front-End-Challenge/static/js/787.a220e49e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5917037.js"
+  ]
+}
