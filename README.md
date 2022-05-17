@@ -1,5 +1,5 @@
 # Figma Front End Challenge
-Created a little test of the use of Figma by making a fun fact article type page with a fun fact.
+Created a little test of the use of Figma by making an article type page with a fun fact.
 
 # Demo
 
