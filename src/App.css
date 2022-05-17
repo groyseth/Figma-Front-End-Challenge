@@ -1,10 +1,14 @@
 .App {
   text-align: center;
-  background-image: url(./image/test.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  
 }
-
+.backGround{
+  background-image: url(./image/test.jpg);
+  background-repeat: no-repeat; 
+  background-size: cover;
+  z-index: -1;
+  /* position: static; */
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
